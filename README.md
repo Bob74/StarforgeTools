@@ -1,4 +1,10 @@
 # StarforgeTools
+
+* **Language :** VB .Net
+* **Framework :** .Net Framework 2.0
+* **Library :**
+  * BlackMagic
+
 ![StarforgeTools](https://i.imgur.com/U4kfkoW.png)
 
 
